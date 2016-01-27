@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SOUL FLOUR BAKERY & ROAMING HEARTH PIZZA]]></title>
         <description><![CDATA[SOUL FLOUR BAKERY & ROAMING HEARTH PIZZA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/soul-flour-bakery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 20:14:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 20:24:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soul-flour-bakery/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99912d69-b26a-43ba-bffb-3ce1c90ddbee.jpg">]]></description>
-            <link>undefined8e4e54d3-ab06-4c37-85ad-98dabc0f6de3/index.html</link>
+            <link>https://thegrid.ai/soul-flour-bakery/8e4e54d3-ab06-4c37-85ad-98dabc0f6de3/index.html</link>
             <guid isPermaLink="false">8e4e54d3-ab06-4c37-85ad-98dabc0f6de3</guid>
-            <pubDate>Wed, 27 Jan 2016 20:14:06 GMT</pubDate>
+            <pubDate>Wed, 27 Jan 2016 20:24:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
