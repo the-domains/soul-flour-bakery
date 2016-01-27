@@ -1,6 +1,6 @@
 name: Soul Flour Bakery
 favicon: null
-layout_spectrum: 0.49244
+layout_spectrum: 0.73434
 typography_spectrum: 0.60043
 title: 'SOUL FLOUR BAKERY & ROAMING HEARTH PIZZA'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#f7b828'
     - '#e0e0ec'
   brandStrength: 1
-  lightness: 0.8125
+  lightness: 1
   saturation: 0.9485665403772146
   rhythmicContrast: 0.75
 purpose: []
