@@ -4,21 +4,21 @@
         <description><![CDATA[SOUL FLOUR BAKERY & ROAMING HEARTH PIZZA]]></description>
         <link>https://thegrid.ai/soul-flour-bakery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 20:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 20:31:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/soul-flour-bakery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Story]]></title>
+            <description><![CDATA[<article><h1>Our Story</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/013345f7ddf68779c3ebf8d91f53cf1d2d9a9b5e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/soul-flour-bakery/8e4e54d3-ab06-4c37-85ad-98dabc0f6de3/index.html</link>
+            <guid isPermaLink="false">8e4e54d3-ab06-4c37-85ad-98dabc0f6de3</guid>
+            <pubDate>Wed, 27 Jan 2016 20:31:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fac70b8-27b9-4445-9f35-222bb3bedc60.jpg">]]></description>
             <link>https://thegrid.ai/soul-flour-bakery/fb9306c6-0fe8-4a81-a765-50688947fe90/index.html</link>
             <guid isPermaLink="false">fb9306c6-0fe8-4a81-a765-50688947fe90</guid>
             <pubDate>Wed, 27 Jan 2016 20:26:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99912d69-b26a-43ba-bffb-3ce1c90ddbee.jpg">]]></description>
-            <link>https://thegrid.ai/soul-flour-bakery/8e4e54d3-ab06-4c37-85ad-98dabc0f6de3/index.html</link>
-            <guid isPermaLink="false">8e4e54d3-ab06-4c37-85ad-98dabc0f6de3</guid>
-            <pubDate>Wed, 27 Jan 2016 20:29:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
