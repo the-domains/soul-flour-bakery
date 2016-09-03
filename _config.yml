@@ -1,20 +1,4 @@
-name: Soul Flour Bakery
-favicon: null
-layout_spectrum: 0.74121
 typography_spectrum: 0.60043
-title: 'SOUL FLOUR BAKERY & ROAMING HEARTH PIZZA'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#cecec4'
@@ -26,4 +10,20 @@ color:
   lightness: 1
   saturation: 0.0625
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74121
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Soul Flour Bakery
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ROAMING HEARTH PIZZA
 purpose: []
